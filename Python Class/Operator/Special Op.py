@@ -3,7 +3,7 @@
 frameWorks = ["Bootstrap","React","Django"]
 print("JavaScript" in(frameWorks))
 print("React" in(frameWorks))       
-print("DJango" in(frameWorks))      #False Check Spell
+print("DJango" in(frameWorks))      #False. (Check Spell)
 print("Django" not in(frameWorks))  #False
 
 
