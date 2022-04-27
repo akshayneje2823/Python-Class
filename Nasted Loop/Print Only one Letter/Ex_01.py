@@ -1,4 +1,6 @@
-''' Print Rghit Angle trangle
+''' 
+Print Rghit Angle trangle
+
 *
 * *
 * * *
