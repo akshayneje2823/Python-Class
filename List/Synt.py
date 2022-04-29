@@ -7,13 +7,15 @@
 '''
 
 a = []
+a.append(4)
 print(a)
 
-b = [1,2,3,4]
-print(b[0])
+b = [1,2,3,4,5,6,7,8,9,10]
+b.remove(3)
+print(b)
 
-c = eval(input("Enter Your Number: "))
-print(c)
+# c = eval(input("Enter Your Number: "))
+# print(c)
 
-l = list(range(100))
-print(l)
+# l = list(range(100))
+# print(l)
