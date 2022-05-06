@@ -4,3 +4,6 @@ print(s)
 
 set = {"apple","mango","banana"}
 print(set)
+
+empName = {"Java","Python","Java","C","C++","#","Javascript","Python"}
+print(empName)    # ==> Does not conatin duplictes values
