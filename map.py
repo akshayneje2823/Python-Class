@@ -12,5 +12,8 @@
 def myfun(a,b):
     return a+b
 
-x = map(myfun,('apple', 'banana', 'cherry'), (1,2,3))
-print(x)
+
+# def myfun(1,2)    ==>   We are passing two arguments one as function other as sequence
+
+x = map(myfun,('apple', 'banana', 'cherry'),(" APPLE"," BANANA"," CHERY"))    # In Pyrhon everything is object so we have to convert list
+print(list(x))
