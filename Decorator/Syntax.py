@@ -12,6 +12,6 @@ def varify():
 def Emp (name):
     print("Hello",name,'Good Morning')
 
-Emp("AksahY")
+Emp("Aksahy")
 Emp("Narendra Modi")
 Emp("Vivek")
