@@ -5,9 +5,9 @@ class Bank:
 
     def getAccount(self,name):
         self.myName = name                  # these are instance variables
-        print("The Bank Is "+ self.bankName + " Bank")
-        print("In"+self.bankAdress + " You will get bank")
-        print("Account holder is Mr. "+ self.myName)
+        print("The Bank Is "+ self.bankName + " Bank.")
+        print("In"+self.bankAdress + " You will get bank.")
+        print("Account holder is Mr. "+ self.myName + ".")
 
 otp = Bank("HDFC","Maratahalli")
 
