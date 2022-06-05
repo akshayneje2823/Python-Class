@@ -1,7 +1,7 @@
 from turtle import clear
 
 
-size = [28,30,32,34,36,36,28,32,True,"List"]
+size = [28, 30, 32, 34, 36, 36, 28, 32, True, "List"]
 
 # a = size.clear()
 # print(a)
@@ -14,7 +14,7 @@ size = [28,30,32,34,36,36,28,32,True,"List"]
 # print(size)
 
 
-name = ["a","b","c","d","e","f","g"]
+name = ["a", "b", " c", "d", " e", "f", "g"]
 del name[3]
 del name[2]  #==> delets specified index number
 del name[0]
